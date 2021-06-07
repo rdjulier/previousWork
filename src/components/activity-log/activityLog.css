@@ -1,0 +1,41 @@
+.border {
+    border-bottom: 1px solid !important;
+    margin-right: 100px !important;
+    margin-top: 1% !important;
+}
+
+.heading {
+    margin-top: 10px !important;
+    font-size: 17px !important;
+}
+
+.updatedBy{
+    margin-bottom: 10px !important;
+    color: gray !important;
+    font-size: 14px !important;
+    font-style: italic !important;
+}
+
+.page {
+    float: right !important;
+    padding: 0 !important;
+    margin-top: 180px !important;
+    margin-bottom: 80px !important;
+}
+
+.body {
+    margin-left: 80px !important;
+    font-family: IBMPlexsans !important;
+    font-size: 15px !important;
+}
+
+#daterange {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+.sideMenu {
+    padding: 0 !important;
+    position: fixed !important;
+    top: 128px !important;
+}
